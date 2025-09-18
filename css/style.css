@@ -131,9 +131,11 @@ section{
 }
 .home .row .image{
     flex:1 1 40rem;
+    padding: 15px;
 }  
 .home .row .image img{
     width: 100%;
+    
 }
 .home .row .content h3{
     margin-bottom: 1rem;
